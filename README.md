@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dan-kings
+- 👋 Hi, I’m @Dan
 - 👀 I’m interested in learn
 - 🌱 I’m currently learning to be great systems engineer
 - 💞️ I’m looking to collaborate on everything you need
